@@ -7,7 +7,7 @@ const {
 
 const disconnectedServerUrl = `http://localhost:${process.env.PROXY_PORT || 3042}/`;
 const isDisconnected = process.env.JSS_MODE === constants.JSS_MODE.DISCONNECTED;
-const publicUrl = getPublicUrl();
+const publicUrl = process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : process.env.PUBLIC_URL;
 
 const nextConfig = {
   // Set assetPrefix to our public URL
