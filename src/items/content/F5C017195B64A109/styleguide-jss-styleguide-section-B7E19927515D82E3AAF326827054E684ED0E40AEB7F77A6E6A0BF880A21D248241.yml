@@ -1,0 +1,37 @@
+﻿---
+ID: "d1b31dcc-7ded-5356-a2d0-b0bde22ed474"
+Parent: "3f0375b0-a3d1-5183-b22f-18e9c1cd05ed"
+Template: "7c4867e8-1999-5e55-9bb0-461d8e493d97"
+Path: "/sitecore/content/poc/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7E19927515D82E3AAF326827054E684ED0E40AEB7F77A6E6A0BF880A21D248241"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Text-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01cd86b5-4948-58b9-b540-078b2709a7ef"
+      Hint: heading
+      Value: "Single-Line Text"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220506T183002Z
+    - ID: "75fa8eac-ce45-58c5-af14-cd43dd5b3243"
+      Hint: sample
+      Value: |
+        This is a sample text field. <mark>HTML is encoded.</mark> In Sitecore, editors will see a <input type="text">.
+    - ID: "766959f3-bdb2-557b-8329-8e1b8b5f33ad"
+      Hint: sample2
+      Value: This is another sample text field using rendering options. <mark>HTML supported with encode=false.</mark> Cannot edit because editable=false.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6aa02a3a-fa6d-4d96-959b-069b159d6deb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220506T183002Z

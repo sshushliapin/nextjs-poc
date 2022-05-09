@@ -1,0 +1,30 @@
+﻿---
+ID: "53d8782d-cd1e-5495-821b-5db9de36d872"
+Parent: "3f0375b0-a3d1-5183-b22f-18e9c1cd05ed"
+Template: "c9a75d2f-1c7d-5c6d-b608-262f5b6c16fa"
+Path: "/sitecore/content/poc/home/styleguide/Page Components/styleguide-jss-reuse-example-3A5D9C50-D8C1-5A12-8DA8-5D56C2A5A69A-0-ContentBlock-4"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "ContentBlock-4"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220506T183004Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "906505e4-3c21-4adc-bc90-d19e273f56da"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220506T183004Z
+    - ID: "ec28e9bb-64e0-5767-b9bf-754c42b8f208"
+      Hint: content
+      Value: <p>Mix and match reused and local content. Check out <code>/data/routes/styleguide/en.yml</code> to see how.</p>

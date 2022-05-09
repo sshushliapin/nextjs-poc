@@ -1,0 +1,48 @@
+﻿---
+ID: "0b509bce-88b0-56d8-8404-ac54aafcfd62"
+Parent: "3f0375b0-a3d1-5183-b22f-18e9c1cd05ed"
+Template: "f7747045-672d-5459-a396-707092fe3ed6"
+Path: "/sitecore/content/poc/home/styleguide/Page Components/styleguide-jss-styleguide-section-B73482E131E5A083D77A50554BC74A4758E29636DF6824F6E2F272EE778C28A095"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ItemLink-10"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01cd86b5-4948-58b9-b540-078b2709a7ef"
+      Hint: heading
+      Value: Item Link
+    - ID: "155112be-7005-563b-ba29-1eb90483ba43"
+      Hint: localItemLink
+      Value: "{AEB046BA-E6C5-53DB-8C90-35E93CCDC9CD}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220506T183003Z
+    - ID: "7a509cac-19e8-5ba9-8db9-70516c7b9e84"
+      Hint: sharedItemLink
+      Value: "{2EC329A5-A7D4-56BB-BD92-7B454C135A4B}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9ac3135e-de81-4566-a482-8f1b46089737"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220506T183004Z
+    - ID: "e19debca-caf7-5c4b-9b28-b18c4005ee23"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Item Links are a way to reference another content item to use data from it.
+            Referenced items may be shared.
+            To reference multiple content items, use a <em>Content List</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Item Link fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        

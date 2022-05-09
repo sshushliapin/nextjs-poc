@@ -1,0 +1,41 @@
+﻿---
+ID: "c79d616c-653f-58a8-a5a9-2f5c393df5a8"
+Parent: "3f0375b0-a3d1-5183-b22f-18e9c1cd05ed"
+Template: "fccb7166-13f1-517e-8e0a-bfe10d96e711"
+Path: "/sitecore/content/poc/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7EC45652F0E4C80EEF29ECF85AC5673C5FAE8526D7C018E7CD2FB4DEFFFFBC2A3"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Checkbox-7"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01cd86b5-4948-58b9-b540-078b2709a7ef"
+      Hint: heading
+      Value: Checkbox
+    - ID: "1ef8fe71-8f71-59c6-8d4c-796eaced65c7"
+      Hint: checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220506T183003Z
+    - ID: "820348d3-bcd6-5c24-9a17-142643de4716"
+      Hint: checkbox2
+      Value: 0
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8dba1b85-1344-4791-871f-ef25faa9a6d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220506T183003Z
+    - ID: "e19debca-caf7-5c4b-9b28-b18c4005ee23"
+      Hint: description
+      Value: |
+        <small>Note: Sitecore does not support inline editing of Checkbox fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.</small>
+        

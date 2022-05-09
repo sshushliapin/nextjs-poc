@@ -1,0 +1,52 @@
+﻿---
+ID: "89bbeecf-d5ee-5bbc-bb21-d4a953cc4b07"
+Parent: "3f0375b0-a3d1-5183-b22f-18e9c1cd05ed"
+Template: "54f71f14-973f-5a55-8def-85d631945016"
+Path: "/sitecore/content/poc/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01cd86b5-4948-58b9-b540-078b2709a7ef"
+      Hint: heading
+      Value: Content List
+    - ID: "04ef2d5a-f333-5c34-a9d8-3810f552222f"
+      Hint: localContentList
+      Value: |
+        {891B751B-5ABF-51DF-B4E5-45E248E399E9}
+        {D6839F89-76CA-5150-9518-E2153A1D5982}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220506T183004Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "84277ec3-454b-4bb8-9989-d3d164d0c1df"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220506T183004Z
+    - ID: "e19debca-caf7-5c4b-9b28-b18c4005ee23"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Content Lists are a way to reference zero or more other content items.
+            Referenced items may be shared.
+            To reference a single content item, use an <em>Item Link</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Content List fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
+    - ID: "fcf00f90-7017-5a2e-9c34-ccaff0036aa1"
+      Hint: sharedContentList
+      Value: |
+        {2F432846-188B-5198-BBB8-1433455E0871}
+        {7C1E4B3A-57F6-5422-A95F-CC10150E7E9D}

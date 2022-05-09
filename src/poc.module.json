@@ -1,0 +1,24 @@
+{
+    "namespace": "poc",
+    "references": [ "InitItems" ],
+    "items": {
+        "includes": [
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/poc"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/poc"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/poc"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/poc"
+            }
+        ]
+    }
+}

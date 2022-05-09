@@ -1,0 +1,16 @@
+{
+    "namespace": "poc-Content",
+    "references": [ "poc" ],
+    "items": {
+        "includes": [
+            {
+                "name": "content",
+                "path": "/sitecore/content/poc"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/poc"
+            }
+        ]
+    }
+}
